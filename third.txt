@@ -1,1 +1,3 @@
 this is new file
+
+updated third.txt in smartgit
